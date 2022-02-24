@@ -1,0 +1,62 @@
+[06-Nov-2020 17:31:02 Asia/Kolkata] PHP Fatal error:  Uncaught Spipu\Html2Pdf\Exception\ImageException: Unable to get the size of the image [images/header.gif] in /home/limadi/public_html/application/vendor/spipu/html2pdf/src/Html2Pdf.php:1519
+Stack trace:
+#0 /home/limadi/public_html/application/vendor/spipu/html2pdf/src/Html2Pdf.php(5769): Spipu\Html2Pdf\Html2Pdf->_drawImage('images/header.g...', false)
+#1 /home/limadi/public_html/application/vendor/spipu/html2pdf/src/Html2Pdf.php(1439): Spipu\Html2Pdf\Html2Pdf->_tag_open_IMG(Array)
+#2 /home/limadi/public_html/application/vendor/spipu/html2pdf/src/Html2Pdf.php(1407): Spipu\Html2Pdf\Html2Pdf->_executeAction(Object(Spipu\Html2Pdf\Parsing\Node))
+#3 /home/limadi/public_html/application/vendor/spipu/html2pdf/src/Html2Pdf.php(5589): Spipu\Html2Pdf\Html2Pdf->_makeHTMLcode()
+#4 /home/limadi/public_html/application/vendor/spipu/html2pdf/src/Html2Pdf.php(1439): Spipu\Html2Pdf\Html2Pdf->_tag_open_TD(Array)
+#5 /home/limadi/public_html/application/vendor/spipu/html2pdf/src/Html2Pdf.php(1393): Spipu\Html2Pdf\Html2Pdf->_execu in /home/limadi/public_html/application/vendor/spipu/html2pdf/src/Html2Pdf.php on line 1519
+[06-Nov-2020 17:31:12 Asia/Kolkata] PHP Fatal error:  Uncaught Spipu\Html2Pdf\Exception\ImageException: Unable to get the size of the image [images/header.gif] in /home/limadi/public_html/application/vendor/spipu/html2pdf/src/Html2Pdf.php:1519
+Stack trace:
+#0 /home/limadi/public_html/application/vendor/spipu/html2pdf/src/Html2Pdf.php(5769): Spipu\Html2Pdf\Html2Pdf->_drawImage('images/header.g...', false)
+#1 /home/limadi/public_html/application/vendor/spipu/html2pdf/src/Html2Pdf.php(1439): Spipu\Html2Pdf\Html2Pdf->_tag_open_IMG(Array)
+#2 /home/limadi/public_html/application/vendor/spipu/html2pdf/src/Html2Pdf.php(1407): Spipu\Html2Pdf\Html2Pdf->_executeAction(Object(Spipu\Html2Pdf\Parsing\Node))
+#3 /home/limadi/public_html/application/vendor/spipu/html2pdf/src/Html2Pdf.php(5589): Spipu\Html2Pdf\Html2Pdf->_makeHTMLcode()
+#4 /home/limadi/public_html/application/vendor/spipu/html2pdf/src/Html2Pdf.php(1439): Spipu\Html2Pdf\Html2Pdf->_tag_open_TD(Array)
+#5 /home/limadi/public_html/application/vendor/spipu/html2pdf/src/Html2Pdf.php(1393): Spipu\Html2Pdf\Html2Pdf->_execu in /home/limadi/public_html/application/vendor/spipu/html2pdf/src/Html2Pdf.php on line 1519
+[06-Nov-2020 17:32:04 Asia/Kolkata] PHP Fatal error:  Uncaught Spipu\Html2Pdf\Exception\ImageException: Unable to get the size of the image [images/header.gif] in /home/limadi/public_html/application/vendor/spipu/html2pdf/src/Html2Pdf.php:1519
+Stack trace:
+#0 /home/limadi/public_html/application/vendor/spipu/html2pdf/src/Html2Pdf.php(5769): Spipu\Html2Pdf\Html2Pdf->_drawImage('images/header.g...', false)
+#1 /home/limadi/public_html/application/vendor/spipu/html2pdf/src/Html2Pdf.php(1439): Spipu\Html2Pdf\Html2Pdf->_tag_open_IMG(Array)
+#2 /home/limadi/public_html/application/vendor/spipu/html2pdf/src/Html2Pdf.php(1407): Spipu\Html2Pdf\Html2Pdf->_executeAction(Object(Spipu\Html2Pdf\Parsing\Node))
+#3 /home/limadi/public_html/application/vendor/spipu/html2pdf/src/Html2Pdf.php(5589): Spipu\Html2Pdf\Html2Pdf->_makeHTMLcode()
+#4 /home/limadi/public_html/application/vendor/spipu/html2pdf/src/Html2Pdf.php(1439): Spipu\Html2Pdf\Html2Pdf->_tag_open_TD(Array)
+#5 /home/limadi/public_html/application/vendor/spipu/html2pdf/src/Html2Pdf.php(1393): Spipu\Html2Pdf\Html2Pdf->_execu in /home/limadi/public_html/application/vendor/spipu/html2pdf/src/Html2Pdf.php on line 1519
+[06-Nov-2020 17:32:15 Asia/Kolkata] PHP Fatal error:  Uncaught Spipu\Html2Pdf\Exception\ImageException: Unable to get the size of the image [images/header.gif] in /home/limadi/public_html/application/vendor/spipu/html2pdf/src/Html2Pdf.php:1519
+Stack trace:
+#0 /home/limadi/public_html/application/vendor/spipu/html2pdf/src/Html2Pdf.php(5769): Spipu\Html2Pdf\Html2Pdf->_drawImage('images/header.g...', false)
+#1 /home/limadi/public_html/application/vendor/spipu/html2pdf/src/Html2Pdf.php(1439): Spipu\Html2Pdf\Html2Pdf->_tag_open_IMG(Array)
+#2 /home/limadi/public_html/application/vendor/spipu/html2pdf/src/Html2Pdf.php(1407): Spipu\Html2Pdf\Html2Pdf->_executeAction(Object(Spipu\Html2Pdf\Parsing\Node))
+#3 /home/limadi/public_html/application/vendor/spipu/html2pdf/src/Html2Pdf.php(5589): Spipu\Html2Pdf\Html2Pdf->_makeHTMLcode()
+#4 /home/limadi/public_html/application/vendor/spipu/html2pdf/src/Html2Pdf.php(1439): Spipu\Html2Pdf\Html2Pdf->_tag_open_TD(Array)
+#5 /home/limadi/public_html/application/vendor/spipu/html2pdf/src/Html2Pdf.php(1393): Spipu\Html2Pdf\Html2Pdf->_execu in /home/limadi/public_html/application/vendor/spipu/html2pdf/src/Html2Pdf.php on line 1519
+[07-Nov-2020 12:59:03 Asia/Kolkata] PHP Fatal error:  Uncaught RuntimeException: The exit status code '127' says something went wrong:
+stderr: "sh: /usr/local/bin/wkhtmltopdf: No such file or directory
+"
+stdout: ""
+command: /usr/local/bin/wkhtmltopdf --lowquality '/tmp/knp_snappy5fa64cbf24e900.10864323.html' '/home/limadi/public_html/bill.pdf'. in /home/limadi/public_html/application/vendor/knplabs/knp-snappy/src/Knp/Snappy/AbstractGenerator.php:381
+Stack trace:
+#0 /home/limadi/public_html/application/vendor/knplabs/knp-snappy/src/Knp/Snappy/AbstractGenerator.php(178): Knp\Snappy\AbstractGenerator->checkProcessStatus(127, '', 'sh: /usr/local/...', '/usr/local/bin/...')
+#1 /home/limadi/public_html/application/vendor/knplabs/knp-snappy/src/Knp/Snappy/Pdf.php(63): Knp\Snappy\AbstractGenerator->generate(Array, '/home/limadi/pu...', Array, false)
+#2 /home/limadi/public_html/application/vendor/knplabs/knp-snappy/src/Knp/Snappy/AbstractGenerator.php(212): Knp\Snappy\Pdf->generate(Array, '/home/limadi/pu...', Array, false)
+#3 /home/limadi/public_html/application/t.php(9 in /home/limadi/public_html/application/vendor/knplabs/knp-snappy/src/Knp/Snappy/AbstractGenerator.php on line 381
+[07-Nov-2020 12:59:19 Asia/Kolkata] PHP Fatal error:  Uncaught RuntimeException: The exit status code '127' says something went wrong:
+stderr: "sh: /usr/local/bin/wkhtmltopdf: No such file or directory
+"
+stdout: ""
+command: /usr/local/bin/wkhtmltopdf --lowquality '/tmp/knp_snappy5fa64ccf1e20e1.63472951.html' '/home/limadi/public_html/bill.pdf'. in /home/limadi/public_html/application/vendor/knplabs/knp-snappy/src/Knp/Snappy/AbstractGenerator.php:381
+Stack trace:
+#0 /home/limadi/public_html/application/vendor/knplabs/knp-snappy/src/Knp/Snappy/AbstractGenerator.php(178): Knp\Snappy\AbstractGenerator->checkProcessStatus(127, '', 'sh: /usr/local/...', '/usr/local/bin/...')
+#1 /home/limadi/public_html/application/vendor/knplabs/knp-snappy/src/Knp/Snappy/Pdf.php(63): Knp\Snappy\AbstractGenerator->generate(Array, '/home/limadi/pu...', Array, false)
+#2 /home/limadi/public_html/application/vendor/knplabs/knp-snappy/src/Knp/Snappy/AbstractGenerator.php(212): Knp\Snappy\Pdf->generate(Array, '/home/limadi/pu...', Array, false)
+#3 /home/limadi/public_html/application/t.php(9 in /home/limadi/public_html/application/vendor/knplabs/knp-snappy/src/Knp/Snappy/AbstractGenerator.php on line 381
+[07-Nov-2020 13:00:04 Asia/Kolkata] PHP Fatal error:  Uncaught RuntimeException: The exit status code '127' says something went wrong:
+stderr: "sh: /usr/local/bin/wkhtmltopdf: No such file or directory
+"
+stdout: ""
+command: /usr/local/bin/wkhtmltopdf --lowquality '/tmp/knp_snappy5fa64cfc4bed30.68047155.html' '/home/limadi/public_html/bill.pdf'. in /home/limadi/public_html/application/vendor/knplabs/knp-snappy/src/Knp/Snappy/AbstractGenerator.php:381
+Stack trace:
+#0 /home/limadi/public_html/application/vendor/knplabs/knp-snappy/src/Knp/Snappy/AbstractGenerator.php(178): Knp\Snappy\AbstractGenerator->checkProcessStatus(127, '', 'sh: /usr/local/...', '/usr/local/bin/...')
+#1 /home/limadi/public_html/application/vendor/knplabs/knp-snappy/src/Knp/Snappy/Pdf.php(63): Knp\Snappy\AbstractGenerator->generate(Array, '/home/limadi/pu...', Array, false)
+#2 /home/limadi/public_html/application/vendor/knplabs/knp-snappy/src/Knp/Snappy/AbstractGenerator.php(212): Knp\Snappy\Pdf->generate(Array, '/home/limadi/pu...', Array, false)
+#3 /home/limadi/public_html/application/t.php(9 in /home/limadi/public_html/application/vendor/knplabs/knp-snappy/src/Knp/Snappy/AbstractGenerator.php on line 381
